@@ -1,0 +1,115 @@
+.btn{
+    color: gold;
+}
+.bottom-container{
+    background-color: #666666;
+    padding: 50px;
+}
+.contact-me{
+    padding: 50px;
+    background-color: #4d4d4d;
+}
+.div1{
+
+    background-color: #1a1a1a;
+    padding: 50px;
+}
+
+.downcloud{
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
+.footer-link{
+    color: gold;
+}
+hr {
+    color: white;
+    background-color: #333333;
+    margin: 0 auto;
+    border-top-style: dashed;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-width: 5px;
+    width: 80px;
+
+}
+.lazy{
+    width: 300px;
+}
+.main{
+    position: absolute;
+    top: 35%;
+    left:40%;
+    color: white;
+    font-size: 150%;
+    font-family: 'Pacifico', cursive;
+}
+
+
+
+.moon{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+
+}
+
+.middle-container{
+    background-color: grey;
+}
+
+.pro{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-image{
+    width: 300px;
+    border-radius: 300px;
+
+}
+.skills{
+    background-color: #333333;
+    padding: 50px;
+}
+.top-container{
+    background-color: black;
+    height: 620px;
+    margin-top: 0px;
+    
+}
+
+.upcloud{
+    position: absolute;
+    left: 72%;
+    top: 14%
+}
+
+div{
+    margin-top: 0px;
+   
+}
+
+h1{
+    margin-top: 0px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+
+body{
+    margin:0;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
