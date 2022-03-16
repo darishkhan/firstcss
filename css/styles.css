@@ -23,6 +23,11 @@
 .footer-link{
     color: gold;
 }
+.gif{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
 hr {
     color: white;
     background-color: #333333;
@@ -36,7 +41,9 @@ hr {
 
 }
 .lazy{
-    width: 300px;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
 }
 .main{
     position: absolute;
@@ -65,13 +72,19 @@ hr {
 }
 
 .profile-image{
-    width: 300px;
+    width: 30%;
     border-radius: 300px;
 
 }
 .skills{
     background-color: #333333;
     padding: 50px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 80px auto;
+    text-align: left;
 }
 .top-container{
     background-color: black;
@@ -113,3 +126,42 @@ p{
     text-align: center;
     color: white;
 }
+
+.BUTTON_EXS {
+    background: #FFFFFF;
+    background-image: -webkit-linear-gradient(top, #FFFFFF, #B5B8BF);
+    background-image: -moz-linear-gradient(top, #FFFFFF, #B5B8BF);
+    background-image: -ms-linear-gradient(top, #FFFFFF, #B5B8BF);
+    background-image: -o-linear-gradient(top, #FFFFFF, #B5B8BF);
+    background-image: -webkit-gradient(to bottom, #FFFFFF, #B5B8BF);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height:20px;
+
+ }
+ 
+ .BUTTON_EXS:hover {
+    border: solid gold 1px;
+    background: gold;
+    
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
